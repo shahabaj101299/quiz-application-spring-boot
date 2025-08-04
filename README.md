@@ -29,10 +29,10 @@ A RESTful Quiz Application built using **Java**, **Spring Boot**, **JPA**, and *
 ---
 **🧑‍💻 Author**
 
-Name: Shahabaj Shaikh
+- Name: Shahabaj Shaikh
 
-Email: shahabaj.connect@gmail.com
+- Email: shahabaj.connect@gmail.com
 
-LinkedIn: 
+- LinkedIn Profile: https://www.linkedin.com/in/shahabaj101299/ 
 
 
